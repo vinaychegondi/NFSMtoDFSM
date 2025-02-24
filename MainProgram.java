@@ -1,13 +1,3 @@
-/*Programming Assignment 02
- * Course:CS-5313-60412 Formal Langugae theory
- * Name: Vinay Chegondi
- * ID:A20446822
- * 
- */
-
-
-
-
 
 import java.io.*;
 
